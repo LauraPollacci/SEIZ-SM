@@ -295,11 +295,11 @@ See LICENSE file for details.
 If you use this package in your research, please cite:
 
 ```
-@article{your2024seiz,
-  title={Evaluating Moderation in Online Social Networks},
-  author={Milli Letizia and Pollacci Laura and Guidotti Riccardo},
-  journal={ },
-  year={2025},
+@article{milli2025evaluating,
+  title={Evaluating Moderation in Online Social Network},
+  author={Milli, Letizia and Pollacci, Laura and Guidotti, Riccardo},
+  journal={arXiv preprint arXiv:2512.20225},
+  year={2025}
 }
 ```
 
